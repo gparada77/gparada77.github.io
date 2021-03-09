@@ -4,9 +4,9 @@
 
 Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es decir, las **torrijas de leche**, para que toda la familia pueda disfrutar de este dulce tan nuestro. Los peques os pueden ayudar a rebozarlas en azúcar y canela.
 
-##TORRIJAS DE LECHE
+## TORRIJAS DE LECHE
 
-###*Ingredientes para las torrijas*
+### *Ingredientes para las torrijas*
 
 - 1 barra de pan del día anterior
 - 1 litro de leche
@@ -17,9 +17,9 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 - Azúcar y canela para rebozar
 - Aceite de oliva virgen
 
-##CÓMO HACER TORRIJAS CASERAS
+## CÓMO HACER TORRIJAS CASERAS
 
-###*Preparamos los ingredientes para las torrijas*
+### *Preparamos los ingredientes para las torrijas*
 
 1. Cortamos el pan en rodajas
 
@@ -59,7 +59,7 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 
 ![Rebozar en mezcla de azúcar y canela](paso8.png)
 
-#####Y ya están listas para tomar… hay a quien le gustan recién hechas y a quien le gustan frías cuando el azúcar forma un almíbar.
+##### Y ya están listas para tomar… hay a quien le gustan recién hechas y a quien le gustan frías cuando el azúcar forma un almíbar.
 
 ![Ana MAría](autora.png)
 >...cualquiera puede atreverse a cocinar - Ana María (Autora de la receta)
