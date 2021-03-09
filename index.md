@@ -39,7 +39,7 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 
 ![El pan tiene que absorver la mezcla](paso4.png)
 
-###*Freímos las torrijas*
+### *Freímos las torrijas*
 
 6. Ponemos una sartén con aceite de oliva virgen en el fuego.
 #####
