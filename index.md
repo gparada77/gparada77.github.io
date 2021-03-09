@@ -30,7 +30,7 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 ![Se coloca en una fuente](paso2.png)
 
 3. Batimos los huevos en un cuenco.
-#####
+
 4. En un cazo ponemos la leche con la rama de canela, las 4 cucharadas soperas de azúcar y la piel de un limón. Cuando rompa a hervir retiramos del fuego y vertemos sobre el pan.
 
 ![Vertemos sobre el pan](paso3.png)
@@ -42,7 +42,7 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 ### *Freímos las torrijas*
 
 6. Ponemos una sartén con aceite de oliva virgen en el fuego.
-#####
+
 7. Cuando esté caliente pasamos el pan por el huevo y freímos en el aceite.
 
 ![Freimos el pan en el aceite](paso5.png)
