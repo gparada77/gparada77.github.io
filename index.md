@@ -23,11 +23,11 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 
 1. Cortamos el pan en rodajas
 
-![Se corta el pan el rodajas](paso1.png)
+    ![Se corta el pan el rodajas](paso1.png)
 
 2. Lo colocamos en una fuente
 
-![Se coloca en una fuente](paso2.png)
+    ![Se coloca en una fuente](paso2.png)
 
 3. Batimos los huevos en un cuenco.
 
