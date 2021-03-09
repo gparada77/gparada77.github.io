@@ -61,7 +61,7 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 
 ##### Y ya están listas para tomar… hay a quien le gustan recién hechas y a quien le gustan frías cuando el azúcar forma un almíbar.
 
-![Ana MAría](autora.png)
+    ![Ana MAría](autora.png)
 >...cualquiera puede atreverse a cocinar - Ana María (Autora de la receta)
 
 [Sito Web - Cocinando entre Olivos](https://cocinandoentreolivos.com/)
