@@ -33,11 +33,11 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 
 4. En un cazo ponemos la leche con la rama de canela, las 4 cucharadas soperas de azúcar y la piel de un limón. Cuando rompa a hervir retiramos del fuego y vertemos sobre el pan.
 
-![Vertemos sobre el pan](paso3.png)
+    ![Vertemos sobre el pan](paso3.png)
 
 5. Lo dejamos unos minutos para que el pan absorba toda la leche y se empape bien.
 
-![El pan tiene que absorver la mezcla](paso4.png)
+    ![El pan tiene que absorver la mezcla](paso4.png)
 
 ### *Freímos las torrijas*
 
@@ -45,19 +45,19 @@ Hoy os proponemos que preparéis en casa las **torrijas caseras** clásicas, es 
 
 7. Cuando esté caliente pasamos el pan por el huevo y freímos en el aceite.
 
-![Freimos el pan en el aceite](paso5.png)
+    ![Freimos el pan en el aceite](paso5.png)
 
 8. Quitamos cuandeo estén doraditas
 
-![Quitamos del aceite](paso6.png)
+    ![Quitamos del aceite](paso6.png)
 
 9. Sacamos y ponemos en un plato con papel de cocina para absorber el exceso de aceite.
 
-![Ponemos en papel para quitar exceso de aceite](paso7.png)
+    ![Ponemos en papel para quitar exceso de aceite](paso7.png)
 
 10. Después, aún calientes, rebozamos en una mezcla de azúcar y canela.
 
-![Rebozar en mezcla de azúcar y canela](paso8.png)
+    ![Rebozar en mezcla de azúcar y canela](paso8.png)
 
 ##### Y ya están listas para tomar… hay a quien le gustan recién hechas y a quien le gustan frías cuando el azúcar forma un almíbar.
 
